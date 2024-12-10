@@ -1,0 +1,6 @@
+{
+  "nunitRetry": {
+    "enabled": true,
+    "tryCount": 2
+  }
+}
